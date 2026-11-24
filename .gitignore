@@ -1,0 +1,8 @@
+# Source-only repository: explicitly allow the published files.
+*
+!/.gitignore
+!/README.md
+!/campaign.py
+!/export_figures.py
+!/source/
+!/source/*.py
